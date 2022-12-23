@@ -3,9 +3,9 @@
 I'm a full-stack JavaScript developer interested in Open Source, DevOps, CI/CD, developer productivity, and writing things down.
 
 ```csharp
-JobStatus: Looking for new jobs
-Stack: React | NextJS | Node | Postgres | Docker | NGINX
-Experience: Building SPA and integrating with headless CMS
+JobStatus: Looking for new Job();
+Stack: React | NextJS | Node | Postgres | Docker | NGINX;
+Experience: years.Add(8);
 ```
 
 🔭 I’m currently working on my own company Endeken  
