@@ -12,4 +12,5 @@ I'm a full-stack JavaScript developer interested in Open Source, DevOps, CI/CD, 
 ### Links
 
 - [**My Full Resume**](https://github.com/wesleyguirra/resume) 📄
+- [**My Personal Blog at Medium (Portuguese)**](https://medium.com/@wesguirra)
 
