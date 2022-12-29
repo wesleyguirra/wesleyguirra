@@ -16,7 +16,5 @@ Experience: years.Add(8);
 - Via e-mail [wesleeycosta7@gmail.com](mailto:wesleeycosta7@gmail.com)  
 
 ### Links
-
-- [**My Full Resume**](https://github.com/wesleyguirra/resume) 📄
 - [**My Personal Blog at Medium (Portuguese)**](https://medium.com/@wesguirra) ✍️  
 
