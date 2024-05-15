@@ -5,7 +5,7 @@ I'm a full-stack JavaScript developer interested in Open Source, DevOps, CI/CD, 
 ```csharp
 JobStatus: Not Active Looking;
 Stack: React | NextJS | Node | Postgres | Docker | NGINX;
-Experience: years.Add(8);
+Experience: years.Add(10);
 ```
 
 🔭 I’m currently working on my own company Endeken  
